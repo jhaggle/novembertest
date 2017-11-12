@@ -6,4 +6,5 @@ Det kommer inte att påverka nånting på master-branchen.
 
 Skriver lite till... 
 
+O nu lite mer
 "
